@@ -36,7 +36,7 @@ function entermain() {
 
     audio.play().catch(() => {
       const retry = document.createElement("div");
-      retry.textContent = "tap to enable sound";
+      retry.textContent = "no song yet";
       retry.style.position = "absolute";
       retry.style.bottom = "30px";
       retry.style.left = "50%";
