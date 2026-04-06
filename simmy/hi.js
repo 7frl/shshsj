@@ -3,10 +3,8 @@
 // --------------------
 
 const songs = [
-  "i wanna fly.mp3",
-  "now & later.mp3",
-  "Party At My Place.mp3",
-  "bby ur so pretty.mp3"
+  
+  "We Go Up.mp3"
 ];
 
 document.addEventListener("DOMContentLoaded", () => {
